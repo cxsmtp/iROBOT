@@ -1,0 +1,9 @@
+<resources>
+    <color name="brand">#2E6BE6</color>
+    <color name="brand_dark">#1B4DB3</color>
+    <color name="ok">#1E9E5A</color>
+    <color name="warn">#E08A00</color>
+    <color name="danger">#D93838</color>
+    <color name="surface_soft">#EEF2FA</color>
+    <color name="text_soft">#5B6474</color>
+</resources>
